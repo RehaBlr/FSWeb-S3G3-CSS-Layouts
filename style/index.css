@@ -97,10 +97,10 @@ main {
   flex-wrap: wrap;
   /* gap: 1rem; */
   justify-content: space-between;
-  row-gap: 2rem;
+  /* row-gap: 2rem; */
   /* margin: 2rem 0; */
   padding: 2rem 0;
-  height: 800px;
+  /* height: 800px; */
   /* background-color: gray; */
 }
 
@@ -130,9 +130,9 @@ footer {
 }
 /*/////////////////*/
 
-button a {
+/* button a {
   text-decoration: none;
 }
 footer button {
   padding: 1rem 3rem;
-}
+} */
